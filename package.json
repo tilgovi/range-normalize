@@ -30,11 +30,7 @@
     "url": "https://github.com/webmodules/range-normalize/issues"
   },
   "homepage": "https://github.com/webmodules/range-normalize",
-  "dependencies": {
-    "debug": "2",
-    "index-of": "0.1.0",
-    "void-elements": "1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "zuul": "2"
   }
